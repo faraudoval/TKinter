@@ -1,0 +1,65 @@
+{
+    "__class__": "ManejJugadores",
+    "jugadores": [
+        {
+            "__class__": "Jugador",
+            "__atributos__": {
+                "jugador": "r",
+                "fecha": "2024-06-05",
+                "hora": "13:21:18",
+                "puntaje": 2,
+                "rowid": null
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributos__": {
+                "jugador": "e",
+                "fecha": "2024-06-05",
+                "hora": "13:35:55",
+                "puntaje": 3,
+                "rowid": 0
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributos__": {
+                "jugador": "s",
+                "fecha": "2024-06-05",
+                "hora": "13:51:53",
+                "puntaje": 3,
+                "rowid": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributos__": {
+                "jugador": "t",
+                "fecha": "2024-06-05",
+                "hora": "13:53:48",
+                "puntaje": 0,
+                "rowid": 2
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributos__": {
+                "jugador": "vale",
+                "fecha": "2024-06-05",
+                "hora": "13:54:23",
+                "puntaje": 1,
+                "rowid": 3
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributos__": {
+                "jugador": "d",
+                "fecha": "2024-06-05",
+                "hora": "13:55:09",
+                "puntaje": 3,
+                "rowid": 4
+            }
+        }
+    ]
+}
